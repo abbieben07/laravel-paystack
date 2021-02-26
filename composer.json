@@ -1,5 +1,5 @@
 {
-    "name": "unicodeveloper/laravel-paystack",
+    "name": "abbieben07/laravel-paystack",
     "description": "A Laravel Package for Paystack",
     "keywords": ["php","github", "laravel","Open Source","payments", "subscription", "paystack", "paystack.co","laravel 6", "laravel 7", "laravel 8"],
     "license": "MIT",
